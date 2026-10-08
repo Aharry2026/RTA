@@ -1,0 +1,15 @@
+# Install PyTorch and torchvision from the official CUDA index first.
+# The versions below match the environment used for the paper implementation.
+numpy==1.26.4
+opencv-python==4.9.0.80
+Pillow==10.3.0
+PyYAML==6.0.1
+ftfy==6.2.0
+regex==2024.5.15
+tqdm==4.66.4
+matplotlib==3.9.0
+prettytable==3.10.0
+mmcv==2.1.0
+mmengine==0.10.4
+mmsegmentation==1.2.2
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git

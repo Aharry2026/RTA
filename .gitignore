@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local data and checkpoints
+.data/
+data/
+weights/
+*.pth
+*.pt
+*.ckpt
+
+# Runs and generated artifacts
+runs/
+save/
+logs/
+*.log
+*.csv
+*.npy
+*.npz
+*.save
+
+# Private source material
+*.pdf
