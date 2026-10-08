@@ -145,7 +145,7 @@ Comparison with state-of-the-art TTA methods for open-vocabulary semantic segmen
 </thead>
 <tbody>
 <tr><td colspan="2">V20 (Original)</td><td>75.91</td><td>77.00</td><td>75.93</td><td>57.73</td><td>72.77</td><td>83.76</td><td>84.68</td><td>86.10</td><td>86.47</td><td><strong>88.24↑1.77</strong></td></tr>
-<tr><td rowspan="16"><strong>V20-C</strong></td><td>Gaussian noise</td><td>62.89</td><td>63.02</td><td>62.98</td><td>36.44</td><td>53.36</td><td>71.13</td><td>71.79</td><td>71.46</td><td>71.91</td><td><strong>73.72↑1.81</strong></td></tr>
+<tr><td rowspan="15"><strong>V20-C</strong></td><td>Gaussian noise</td><td>62.89</td><td>63.02</td><td>62.98</td><td>36.44</td><td>53.36</td><td>71.13</td><td>71.79</td><td>71.46</td><td>71.91</td><td><strong>73.72↑1.81</strong></td></tr>
 <tr><td>Shot noise</td><td>66.26</td><td>65.88</td><td>66.33</td><td>40.95</td><td>58.15</td><td>75.02</td><td>75.96</td><td>75.42</td><td>75.89</td><td><strong>77.90↑2.01</strong></td></tr>
 <tr><td>Impulse noise</td><td>63.16</td><td>64.17</td><td>63.12</td><td>34.90</td><td>54.83</td><td>71.34</td><td>71.61</td><td>72.69</td><td>73.81</td><td><strong>74.99↑1.18</strong></td></tr>
 <tr><td>Defocus blur</td><td>72.59</td><td>72.06</td><td>72.55</td><td>52.43</td><td>65.39</td><td>80.36</td><td>80.24</td><td>80.08</td><td>80.71</td><td><strong>82.14↑1.43</strong></td></tr>
